@@ -1,0 +1,33 @@
+@font-face {
+  font-family: "UAC_EUDC";
+  src:url(./font/UAC_EUDC.eot); /* IE9 Compat Modes */
+  src:url(./font/UAC_EUDC.eot?#iefix) format("embedded-opentype"), /* IE6-IE8 */
+      url(./font/UAC_EUDC.woff) format("woff"), /* Modern Browsers */
+      url(./font/UAC_EUDC.ttf) format("truetype"), /* Safari, Android, iOS */
+      url(./font/UAC_EUDC.svg#ArtBrewery) format("svg"); /* Legacy iOS */
+}
+
+
+
+* {
+  color: darkblue;
+  font-family: 'UAC_EUDC', Times, serif;
+}
+
+p {
+  font-size: 1.5rem;
+}
+
+input {
+  font-family: 'UAC_EUDC', Times, serif;
+}
+
+
+button {
+  font-family: 'UAC_EUDC', Times, serif;
+}
+
+textarea {
+  font-family: 'UAC_EUDC', Times, serif;
+}
+
